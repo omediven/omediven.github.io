@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://omediven.github.io/sitemap.html.gz
+Sitemap: https://omediven.github.io/app/sitemap.html.gz
+Sitemap: https://omediven.github.io/assets/sitemap.html.gz
+Sitemap: https://omediven.github.io/css/sitemap.html.gz
+Sitemap: https://omediven.github.io/includes/sitemap.html.gz
+Sitemap: https://omediven.github.io/item/sitemap.html.gz
+Sitemap: https://omediven.github.io/src/sitemap.html.gz
